@@ -31,6 +31,7 @@ modules:
         - cockpit-storaged
         - cockpit-ostree
         - btop
+        - samba
         - mc
         - zsh
         - wsdd
